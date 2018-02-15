@@ -1,5 +1,5 @@
 # posh-exchange-tools
-Module Powershell de cmdlet pour l'administration d'Exchange et AD
+Module Powershell de cmdlet pour l'administration d'Exchange et AD.
 Hello World, I am following the GitHub guide for the creation of my first repository... 
 Sorry for english people but I wrote comments in french for this one, in order to share it with my acutal company.
 I guess I will update it in english asap!
